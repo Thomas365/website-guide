@@ -1,22 +1,57 @@
 {
     "website-classify":{
-        "综合":[
+        "综合门户":[
             {
                 "name":"伯乐在线",
-                "value":""
+                "value":"http://www.jobbole.com/"
             },
             {
                 "name":"开源中国",
+                "value":"http://www.oschina.net/"
+            },{
+                "name":"CSDN",
+                "value":"http://www.csdn.net/"
+            }
+        ],
+        "社区":[
+            {
+                "name":"SegmentFault",
                 "value":""
+            },
+            {
+                "name":"Node.js中文社区",
+                "value":"https://cnodejs.org/"
+            },{
+                "name":"推酷",
+                "value":"http://www.tuicool.com/"
             }
         ],
         "技术博客":[
             {
                 "name":"阮一峰博客",
-                "value":""
+                "value":"www.ruanyifeng.com"
             },{
                 "name":"廖雪峰博客",
-                "value":""
+                "value":"http://www.liaoxuefeng.com/"
+            },
+            {
+                "name":"博客园",
+                "value":"http://www.cnblogs.com/"
+            }
+        ],
+        "在线学习":[
+            {
+                "name":"慕课网",
+                "value":"http://www.imooc.com/"
+            },{
+                "name":"极客学院",
+                "value":"http://www.jikexueyuan.com/"
+            },{
+                "name":"菜鸟教程",
+                "value":"http://www.runoob.com/"
+            },{
+                "name":"网易云课堂",
+                "value":"http://study.163.com/"
             }
         ]
     }
