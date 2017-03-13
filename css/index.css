@@ -1,0 +1,98 @@
+
+.header,.footer{
+    height: 60px;
+    background: #f1f1f1;
+}
+.middle{
+    margin:20px auto;
+    width: 1200px;
+}
+
+/*搜索框*/
+.search-container{
+    margin-bottom: 30px;
+    height: 80px;
+    border: 1px solid #eee;
+}
+.search-container form{
+    margin:0px auto;
+    width: 800px;
+}
+.search-container .baidu_logo{
+    float: left;
+    margin:18px 20px 0px 0px;
+}
+.search-container .input{
+    float:left;
+    margin-top:20px;
+    width: 500px;
+    height: 40px;
+    border: 1px solid #ccc;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    font:normal 15px/40px '微软雅黑';
+    text-indent: 10px;
+}
+.search-container .btn-submit{
+    float:left;
+    margin-top:20px;
+    width: 90px;
+    height: 40px;
+    background: #f1f1f1;
+    border: 1px solid #ccc;
+    border-left: none;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    cursor: pointer;
+    font:normal 15px/40px '微软雅黑';
+}
+.search-container .btn-submit:hover{
+    background: #3385FF;
+    color:#fff;
+}
+
+
+
+/*网址分类*/
+.website-classify{
+
+}
+.title-container{
+    height: 40px;
+    background: #f1f1f1;
+}
+.title-container .title{
+    margin-left:20px;
+    width: 100px;    
+    font:normal 15px/40px '微软雅黑';
+    color:#3392FF;
+}
+.website-list{
+    padding:20px;
+    overflow: hidden;
+}
+.website-list li{
+    float: left;
+    margin:0px 20px 20px 0px;
+    width: 120px;
+    height: 30px;
+}
+.website-list li a{
+    color:#333;
+    cursor:pointer;
+}
+.website-list li .icon{
+    float:left;
+    margin:6px 5px 0 0;
+    display: block;
+    height: 16px;
+    width: 16px;
+    background: url('../imgs/website.png') no-repeat center center
+}
+.website-list li .websitename{
+    float: left;
+    font: normal 14px/30px '微软雅黑';
+    /*background: #eee;*/
+}
