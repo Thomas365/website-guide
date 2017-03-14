@@ -52,6 +52,9 @@
             },{
                 "name":"网易云课堂",
                 "value":"http://study.163.com/"
+            },{
+                "name":"七天学会NodeJS",
+                "value":"http://nqdeng.github.io/7-days-nodejs/"
             }
         ]
     }
