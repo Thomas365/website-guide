@@ -16,7 +16,7 @@
         "社区":[
             {
                 "name":"SegmentFault",
-                "value":""
+                "value":"https://segmentfault.com/"
             },
             {
                 "name":"Node.js中文社区",
@@ -29,7 +29,7 @@
         "技术博客":[
             {
                 "name":"阮一峰博客",
-                "value":"www.ruanyifeng.com"
+                "value":"http://www.ruanyifeng.com"
             },{
                 "name":"廖雪峰博客",
                 "value":"http://www.liaoxuefeng.com/"
