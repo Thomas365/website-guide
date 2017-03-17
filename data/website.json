@@ -1,5 +1,14 @@
 {
     "website-classify":{
+        "在线工具":[
+            {
+                "name":"菜鸟在线工具",
+                "value":"https://c.runoob.com/"
+            },{
+                "name":"oschina在线工具",
+                "value":"http://tool.oschina.net/"
+            }
+        ],
         "综合门户":[
             {
                 "name":"伯乐在线",
@@ -24,6 +33,9 @@
             },{
                 "name":"推酷",
                 "value":"http://www.tuicool.com/"
+            },{
+                "name":"掘金",
+                "value":"https://juejin.im/"
             }
         ],
         "技术博客":[
@@ -56,6 +68,13 @@
                 "name":"七天学会NodeJS",
                 "value":"http://nqdeng.github.io/7-days-nodejs/"
             }
-        ]
+        ],
+        "资源":[{
+            "name":"Gitlab",
+            "value":"https://gitlab.com/"
+        },{
+            "name":"Github",
+            "value":"https://github.com/"
+        }]
     }
 }
