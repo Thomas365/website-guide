@@ -75,6 +75,15 @@
         },{
             "name":"Github",
             "value":"https://github.com/"
+        },{
+            "name":"Vue.js",
+            "value":"https://vuefe.cn/v2/guide/"
+        },{
+            "name":"React.js",
+            "value":"https://facebook.github.io/react/docs/installation.html"
+        },{
+            "name":"webpack2",
+            "value":"https://webpack.js.org/"
         }]
     }
 }
