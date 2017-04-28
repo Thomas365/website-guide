@@ -1,4 +1,4 @@
-
+loading1
 .header,.footer{
     height: 60px;
     background: #f1f1f1;
@@ -95,4 +95,41 @@
     float: left;
     font: normal 14px/30px '微软雅黑';
     /*background: #eee;*/
+}
+.added{
+    width: 100%;
+}
+.added .refer{
+    text-indent: 20px;
+    line-height: 30px;
+    font: normal 14px/30px '微软雅黑';
+}
+.added .refer a{
+    color:#3392FF;
+}
+.libList{
+    margin:20px 0;    
+}
+.libList li{
+    padding-left:30px;
+    height: 30px;
+}
+.addLib{
+    height: 40px;
+    background: #f1f1f1;
+}
+.addLib label{
+    margin-left: 20px;
+    margin-right: 10px;
+    font: normal 14px/40px '微软雅黑';
+    color:#3392FF;    
+}
+.addLib input{
+    height: 20px;
+    width: 400px;
+    text-indent: 10px;
+}
+.addLib .btnAdd{
+    height: 25px;
+    width: 60px;
 }
